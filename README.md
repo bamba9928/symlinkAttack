@@ -111,7 +111,7 @@ Les scripts utilisent le module `logging` pour enregistrer les actions et les er
 
 ## 🗒 Licence
 
-Ce projet est sous licence MIT. Pour plus de détails, consultez le fichier LICENSE.
+Ce projet est sous licence Apache License 2.0. Pour plus de détails, consultez le fichier LICENSE.
 
 ## 🙏 Contribution
 
