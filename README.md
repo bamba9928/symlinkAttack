@@ -1,4 +1,3 @@
-# symlinkAttack
 # Script d'Audit Système
 
 Ce dépôt contient deux scripts Python pour effectuer des tâches d'audit système sur Windows et Linux. Ces scripts sont conçus à des fins éducatives et de recherche uniquement.
@@ -11,8 +10,8 @@ Ces scripts sont destinés uniquement à des fins éducatives et de recherche. T
 
 ## 🗂 Contenu du Dépôt
 
-- **symlink_forWIN_v1.0.py** : Script pour Windows.
-- **symlink_forLINUX_v1.0.py** : Script pour Linux.
+- **Symlink_Windows.py** : Script pour Windows.
+- **Symlink_Linux.py** : Script pour Linux.
 - **README.md** : Documentation du projet.
 
 ## 🛠️ Fonctionnalités
@@ -30,7 +29,7 @@ Les deux scripts offrent les fonctionnalités suivantes :
 - **Menu interactif :**
   - Un menu interactif permet de choisir et d'exécuter les différentes fonctionnalités.
 
-## 🖥️ Script pour Windows (symlink_forWIN_v1.0.py.py)
+## 🖥️ Script pour Windows (Symlink_Windows.py)
 
 ### Prérequis
 
@@ -39,11 +38,11 @@ Les deux scripts offrent les fonctionnalités suivantes :
 
 ### Utilisation
 
-1. Téléchargez le script **symlink_forWIN_v1.0.py.py**.
+1. Téléchargez le script **Symlink_Windows.py**.
 2. Ouvrez un terminal (cmd ou PowerShell) et naviguez jusqu'au dossier contenant le script.
 3. Exécutez le script avec la commande suivante :
    ```bash
-   python symlink_forWIN_v1.0.py.py
+   python Symlink_Windows.py
    ```
 4. Suivez les instructions du menu pour sélectionner une option.
 
@@ -51,7 +50,7 @@ Les deux scripts offrent les fonctionnalités suivantes :
 
 - Utilisation de la commande `net user` pour lister les utilisateurs.
 
-## 🔷 Script pour Linux (symlink_forLINUX_v1.0.py.py)
+## 🔷 Script pour Linux (Symlink_Linux.py)
 
 ### Prérequis
 
@@ -60,11 +59,11 @@ Les deux scripts offrent les fonctionnalités suivantes :
 
 ### Utilisation
 
-1. Téléchargez le script **symlink_forLINUX_v1.0.py.py**.
+1. Téléchargez le script **Symlink_Linux.py**.
 2. Ouvrez un terminal et naviguez jusqu'au dossier contenant le script.
 3. Exécutez le script avec la commande suivante :
    ```bash
-   python3 symlink_forLINUX_v1.0.py.py
+   python3 Symlink_Linux.py
    ```
 4. Suivez les instructions du menu pour sélectionner une option.
 
@@ -135,5 +134,5 @@ Les contributions sont les bienvenues ! Si vous souhaitez améliorer ce projet, 
 
 ## 📧 Contact
 
-Pour toute question ou suggestion, veuillez contacter bigrip2016@gmail.com ...
+Pour toute question ou suggestion, veuillez contacter [votre email ou nom d'utilisateur GitHub].
 
