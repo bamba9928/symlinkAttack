@@ -7,12 +7,13 @@ def display_warning():
     """Affiche un avertissement concernant l'utilisation du script."""
     message = """
     ***************************************
-    Bamba Dieng +221 77 249 05 30      bigrip2016@gmail.com
+ Bamba Dieng +221 77 249 05 30  <>  <>    bigrip2016@gmail.com  <> <>  Baol ma terre natale
     🌍 Basé au Sénégal
-🚀 Projets : Gestion d'applications web avec Django, développement d'IA légère pour le code
-⚙️ Langages : Python, JavaScript, SQL, HTML, Bootstrap, CSS
-🔍 Objectif : Devenir performant en programmation et en sécurité informatique
-💼 Toujours prêt à relever de nouveaux défis techniques
+    🚀 Projets : Gestion d'applications web avec Django, développement d'IA légère pour le code, creation site web
+    ⚙️ Langages : Python, JavaScript, SQL, HTML, Bootstrap, CSS etc..
+    🔍 Objectif : meilleur en programmation et en sécurité informatique
+    💼 Toujours prêt à relever de nouveaux défis techniques
+    
     ⚠️ WARNING: Educational Purpose Only ⚠️
 
     This script is intended solely for educational and research purposes.  
