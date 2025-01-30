@@ -48,7 +48,7 @@ def create_symlink(target, link_name):
 def run_command(command):
     """Exécuter une commande système."""
     try:
-        # Évitez d'utiliser shell=True pour des raisons de sécurité
+        # vous aussi mettre shell=True
         result = subprocess.run(command, shell=False, text=True, capture_output=True)
         if result.returncode == 0:
             logging.info("Résultat :\n" + result.stdout)
