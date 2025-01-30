@@ -8,12 +8,13 @@ def display_warning():
     """Affiche un avertissement concernant l'utilisation du script."""
     message = """
     ***************************************
-      Bamba Dieng +221 77 249 05 30      bigrip2016@gmail.com
+     Bamba Dieng +221 77 249 05 30  <>  <>    bigrip2016@gmail.com  <> <>  Baol ma terre natale
     🌍 Basé au Sénégal
-🚀 Projets : Gestion d'applications web avec Django, développement d'IA légère pour le code
-⚙️ Langages : Python, JavaScript, SQL, HTML, Bootstrap, CSS
-🔍 Objectif : Devenir performant en programmation et en sécurité informatique
-💼 Toujours prêt à relever de nouveaux défis techniques    
+    🚀 Projets : Gestion d'applications web avec Django, développement d'IA légère pour le code
+    ⚙️ Langages : Python, JavaScript, SQL, HTML, Bootstrap, CSS etc..
+    🔍 Objectif : meilleur en programmation et en sécurité informatique
+    💼 Toujours prêt à relever de nouveaux défis techniques   
+    
     ⚠️ WARNING: Educational Purpose Only ⚠️
 
     This script is intended solely for educational and research purposes.  
@@ -48,7 +49,7 @@ def create_symlink(target, link_name):
 def run_command(command):
     """Exécuter une commande système."""
     try:
-        # Évitez d'utiliser shell=True pour des raisons de sécurité
+        # shell=True si vous voulez
         result = subprocess.run(command, shell=False, text=True, capture_output=True)
         if result.returncode == 0:
             logging.info("Résultat :\n" + result.stdout)
